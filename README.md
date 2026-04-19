@@ -167,13 +167,3 @@ Learning Highlights
 * JWT authentication
 * Account lock after failed attempts
 * Deployment setup
-
-
-Author
-
-Akhil S Nair
-
-
-Support
-
-If you find this project useful, consider giving it a ⭐ on GitHub.
